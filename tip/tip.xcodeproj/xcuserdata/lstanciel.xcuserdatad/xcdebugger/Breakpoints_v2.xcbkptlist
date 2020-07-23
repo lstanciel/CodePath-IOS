@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0F52FAB-1833-436F-9ACE-3F578D59839B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E9B314-BD73-4DE0-AD13-7A3356BBDFEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "37E9B314-BD73-4DE0-AD13-7A3356BBDFEF - 638d2c5a772aade6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "37E9B314-BD73-4DE0-AD13-7A3356BBDFEF - f54e18b6e4e6d9da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "37E9B314-BD73-4DE0-AD13-7A3356BBDFEF - cb6c1db2396082e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "37E9B314-BD73-4DE0-AD13-7A3356BBDFEF - e9730f44171d5efa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "37E9B314-BD73-4DE0-AD13-7A3356BBDFEF - c15161752e798070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; tip.ViewController"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "370">
+               </Location>
+               <Location
+                  uuid = "37E9B314-BD73-4DE0-AD13-7A3356BBDFEF - e58b3d84fad427ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tip.ViewController&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0A2017C-D066-4125-9908-374EFE6A9513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A0A2017C-D066-4125-9908-374EFE6A9513 - 638d2c5a772aade6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A0A2017C-D066-4125-9908-374EFE6A9513 - f54e18b6e4e6d9da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A0A2017C-D066-4125-9908-374EFE6A9513 - cb6c1db2396082e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "A0A2017C-D066-4125-9908-374EFE6A9513 - e9730f44171d5efa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "A0A2017C-D066-4125-9908-374EFE6A9513 - c15161752e798070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; tip.ViewController"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "370">
+               </Location>
+               <Location
+                  uuid = "A0A2017C-D066-4125-9908-374EFE6A9513 - e58b3d84fad427ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tip.ViewController&gt;"
+                  moduleName = "tip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lstanciel/Desktop/tip/tip/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69C5F8FF-6B4B-4DD3-9B99-B3938A4D834F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "670D8723-0715-4032-8D8A-DD547E6A9BB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tip/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
